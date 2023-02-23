@@ -1,0 +1,45 @@
+h1 {
+     display: center flex;
+}
+
+#links
+{
+     align-self: right;
+     display: flexbox;
+}
+
+footer
+{
+    align-content:center;
+    display: flexbox;
+    align-self: center;
+}
+
+.textSearch
+{
+    display: flexbox;
+    align-content:center;
+}
+
+#recommended {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: center;
+}
+
+.card {
+     width: 500px;
+     margin: 25px;
+}
+
+.card-img-top {
+     min-height: 300px;
+}
+
+.card-text {
+     font-weight: bold;
+}
+
+
+

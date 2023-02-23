@@ -1,0 +1,26 @@
+git pull Remote1 
+
+Remote = Remote1
+
+https://wireframepro.mockflow.com/view/MkFinoxLHob#/page/f48bd1d0250b4711ac85e4f635f363e1
+
+Git commands casue i am not smart:
+
+git push origin working (takes the changes)
+
+git pull origin working (pushes the changes)
+
+git commit -m "things in here" (commit the changes)
+
+git add . ()
+
+git status  (checks status of git)
+
+cd E:/ProjectsForBootcamp/Assigments/GroupProject1/fun-finder
+
+ls
+
+https://miro.com/app/board/uXjVPs6_SsY=/
+
+
+
